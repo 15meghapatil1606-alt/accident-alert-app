@@ -1,23 +1,16 @@
-# accident-alert-app
-An android application that detects car accidents using phone sensors and automatically alerts emergency contacts and first responders with the exact location via SMS
-# Accident Alert App 🚑
+# accident_alert_app
 
-## 📌 Overview
-Accident Alert App detects accidents and sends emergency alerts to saved contacts.
+A new Flutter project.
 
-## 🚀 Features
-- Accident detection logic
-- Emergency SMS alert
-- Location tracking
-- Real-time notification
+## Getting Started
 
-## 🛠 Tech Stack
-- Java / Android (or mention your tech)
-- Firebase (if used)
-- GPS API
+This project is a starting point for a Flutter application.
 
-## 📷 Screenshots
-(Add screenshots below)
+A few resources to get you started if this is your first Flutter project:
 
-## 👩‍💻 Author
-Megha Patil
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
